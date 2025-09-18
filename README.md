@@ -17,5 +17,4 @@ A Salesforce-based CRM to help franchise businesses manage outlets, sales, compl
 
 ## Folder Structure
 - `/docs`: Requirements and documentation
-- `/salesforce`: Salesforce objects, Apex, LWC, flows
-- `/.github`: Issue and PR templates
+
