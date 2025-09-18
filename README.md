@@ -13,7 +13,6 @@ A Salesforce-based CRM to help franchise businesses manage outlets, sales, compl
 ## Getting Started
 1. Review requirements in `docs/requirements.md`
 2. Check open issues for actionable tasks
-3. See `/salesforce/` for metadata and code samples
 
 ## Folder Structure
 - `/docs`: Requirements and documentation
